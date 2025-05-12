@@ -68,5 +68,5 @@ hotel-booking-system/
 
 📧 聯絡方式
 
-如果有任何問題或建議，請聯絡我們：support@hotelbooking.com
+如果有任何問題或建議，請聯絡我：陳志宏 im0930411357@gmail.com
 
