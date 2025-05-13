@@ -29,7 +29,7 @@
 
 下載或 Clone 此專案
 
-git clone https://github.com/your-repo/hotel-booking-system.git
+git clone https://github.com/chen-chi-hung/hotel-booking-system
 
 開啟 index.html
 
